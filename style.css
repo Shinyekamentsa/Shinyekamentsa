@@ -1,0 +1,31 @@
+nav{
+    background-color: #BF5B04;}
+
+main{min-height:85vh;
+    background-color: #EBDED0;}
+footer{height: 10vh;
+    background-color: #BF5B04;}
+
+#about{background-color: #EBDED0;}
+
+.btn-primary {
+    background-color: #BF5B04;
+    color: #ffffff; 
+    border-color: #BF5B04 ;
+  }
+
+  .btn-primary:hover {
+    background-color: #e57310;
+    border-color: #e57310;
+  }
+
+ .form-label {
+    color:#BF5B04
+ }
+
+h3{
+    color:#BF5B04
+ }
+h5{
+    color:#BF5B04
+ }
