@@ -5,7 +5,7 @@
     <item>
       <name>Beetroot and feta salad</name>
       <price>$15.00</price>
-      <description>Suitable for vegetarians, made with fresh beetroot</description>
+      <description>Suitable for vegetarians, made with fresh beetroot and feta cheese</description>
       <image>beetrootAndFetaSalad.jpg</image>
     </item>
     <item>
@@ -17,13 +17,13 @@
     <item>
       <name>Spinach Pie and Salad</name>
       <price>$20.00</price>
-      <description>Tasty pie with salad</description>
+      <description>Tasty homemade spinach pie with delicious garden salad side </description>
       <image>SpinachPieAndSalad.jpg</image>
     </item>
     <item>
       <name>Feta pancakes with salad</name>
       <price>$19.50</price>
-      <description>Tasty pancake filled with feta and salad</description>
+      <description>Tasty pancake filled with feta, mapple syrup and salad</description>
       <image>fetaPancakesWithSalad.jpg</image>
     </item>
   </meal>
