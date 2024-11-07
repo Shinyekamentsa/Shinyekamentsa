@@ -6,6 +6,8 @@ main{min-height:85vh;
 footer{height: 10vh;
     background-color: #BF5B04;}
 
+.card-title {margin-bottom: 2vh;}
+
 #about{background-color: #EBDED0;}
 
 .btn-primary {
