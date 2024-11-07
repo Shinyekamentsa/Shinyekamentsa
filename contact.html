@@ -38,28 +38,30 @@
     <main>
       <h3 class="text-center mt-3">Enquiry Form</h3>
       <div class="container enquiry">
-        <form class="col-md-4 mx-auto">
-          <div class="mb-3">
-            <label for="lastName" class="form-label">Last Name</label>
-            <input type="text" class="form-control" id="lastName">
-          </div>
+        <form id="contactForm">
           <div class="mb-3">
             <label for="firstName" class="form-label">First Name</label>
             <input type="text" class="form-control" id="firstName">
           </div>
+
           <div class="mb-3">
-            <label for="exampleFormControlInput1" class="form-label">Email address</label>
-            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+            <label for="lastName" class="form-label">Last Name</label>
+            <input type="text" class="form-control" id="lastName">
+          </div>
+        
+          <div class="mb-3">
+            <label for="email" class="form-label">Email address</label>
+            <input type="email" class="form-control" id="email" placeholder="name@example.com">
           </div>
           <div class="mb-3">
             <label for="messageSubject" class="form-label">Message Subject</label>
             <input type="text" class="form-control" id="messageSubject">
           </div>
           <div class="mb-3">
-            <label for="exampleFormControlTextarea1" class="form-label">Message body</label>
-            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            <label for="messageBody" class="form-label">Message body</label>
+            <textarea class="form-control" id="messageBody" rows="3"></textarea>
           </div>
-          <input class="btn btn-primary w-100" type="submit" name="submit" value="Submit">
+          <button type="submit" class="btn btn-primary w-100">Send Message</button>
         </form>
       </div>
 
@@ -89,7 +91,9 @@
                                       ));
       }
       //END: PROCESS BRANCHES
+      
       document.querySelector("#currentYear").textContent = getCurrentYear();
+
     </script>
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
