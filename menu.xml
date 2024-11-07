@@ -29,11 +29,7 @@
       <image>fetaPancakesWithSalad.jpeg</image>
     </item>
   </meal>
-
-
-
   <beverage>
-
     <coffeeAndHotChocolate>
       <item>
         <size>Small</size>
@@ -51,10 +47,6 @@
         <description>For coffee, please inform the staff of the coffee type.</description>
       </item>
     </coffeeAndHotChocolate>
-
-
-
-
     <other>
       <item>
         <name>Soda</name>
