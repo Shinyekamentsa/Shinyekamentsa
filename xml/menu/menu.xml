@@ -17,13 +17,13 @@
     <item>
       <name>Spinach Pie and Salad</name>
       <price>$20.00</price>
-      <description>Tasty homemade spinach pie with delicious garden salad side </description>
+      <description>Tasty homemade spinach pie accompanied with delicious garden salad</description>
       <image>SpinachPieAndSalad.jpg</image>
     </item>
     <item>
       <name>Feta pancakes with salad</name>
       <price>$19.50</price>
-      <description>Tasty pancake filled with feta, mapple syrup and salad</description>
+      <description>Tasty and fluffy pancakes filled with feta, mapple syrup and salad</description>
       <image>fetaPancakesWithSalad.jpg</image>
     </item>
   </meal>
